@@ -1,0 +1,100 @@
+body{
+    background-image: url(./img.jpg);
+    background-image: cover;
+}
+.text{
+    padding: 30px;
+    text-align: center;
+    color: rgb(255, 124, 48);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text2{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.box{
+    margin: auto;
+    border: 20px solid white;
+    height: 190px;
+    width: 900px;
+    background-color: white;
+}
+.Photo1{
+  z-index: 2;
+  position: fixed;
+  top: 30%;
+  left:  33%;
+}
+.Photo_text1{
+    text-align: center;
+    color: black;
+    z-index: 1;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 38%;
+    left: 30%;
+}
+.Photo2{
+    z-index: 2;
+    position: fixed;
+    top: 30%;
+    left:  47%;
+}
+.Photo_text2{
+    text-align: center;
+    color: black;
+    z-index: 1;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 38%;
+    left: 45.5%;
+}
+.Photo3{
+    z-index: 2;
+    position: fixed;
+    top: 28%;
+    left: 61.5%;
+}
+.Photo_text3{
+    text-align: center;
+    color: black;
+    z-index: 1;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 38%;
+    left: 61.2%;
+}
+.last_txt{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.box_2{
+    border: 20px solid rgb(39, 39, 39);
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: fixed;
+    bottom: 0px;
+    height: 62px;
+    background-color: rgb(39, 39, 39);
+}
+.syperlast_txt{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    position: absolute;
+    top: 8%;
+    left: 38%;
+}
