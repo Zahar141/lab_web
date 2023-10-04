@@ -1,0 +1,46 @@
+Q<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="text"><b>Contact Us</b></div>
+    <hr style="width: 50px; height: 3px; background-color:  rgb(255, 124, 48)">
+    <p class="text2">Nisl nisi scelerisque eu ultrices vitae auctor eu. Nulla at volutpat diam ut.<br>
+    venenatis tellus in metus vulpatute. Ultrices mi quies hendrerit dolor magna</p>
+    <div class="box"></div>
+    <p class="Photo_text1">Addres:<br>
+    <br>121 Rock Street, 21Avanue,
+    <br>New York, NY 92103-9000
+    </P>
+    
+
+
+    <div class="Photo1">
+        <img src="./1.png" height="70px", width="70px">
+    </div>
+    
+
+    <div class="Photo2">
+        <img src="./2.png" height="70px">
+    </div>
+    <p class="Photo_text2">Email:<br>
+        <br> <b style="text-decoration: underline;">hello@company.com</b>
+        <br><b style="text-decoration: underline;">support@company.com</b>
+        </P>
+
+    <div class="Photo3">
+        <img src="./3.png" height="90px">
+    </div>
+    <p class="Photo_text3">Call us:<br>
+        <br>1 (234) 567-891
+        <br>1 (234) 987-654
+        </P>
+    <p class="last_txt">Images from <span style="text-decoration: underline;">Freepik</span></p>
+    <div box_2></div>
+    <div class="box_2"> <p class="syperlast_txt">Sample text. Click to select the text box. Click again or double<br> click to start editing the text</p></div>
+</body>
+</html>
