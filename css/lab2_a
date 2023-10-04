@@ -1,0 +1,116 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.circle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: #3498db;
+    border-radius: 50%;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.circle img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.box{
+    width: 400px;
+    height: 225px;
+    background-color: rgb(223, 223, 223);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; 
+    position: fixed;
+    left: 15%;
+    
+}
+
+.box2{
+    width: 400px;
+    height: 225px;
+    background-color: rgb(223, 223, 223);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: fixed;
+    left: 59%;
+    top: 3%;
+}
+
+.box3{
+    width: 400px;
+    height: 225px;
+    background-color: rgb(223, 223, 223);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: fixed;
+    left: 59%;
+    top: 66%;
+}
+
+.box p{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding-right: 40px;
+    font-weight: bold;
+}
+
+.box2 p{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding-right: 40px;
+    font-weight: bold;
+}
+.box3 p{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding-right: 40px;
+    font-weight: bold;
+}
+
+p {
+    text-align: initial;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding-left: 40px;
+
+}
+.h2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding-right: 40px;
+    color: gre;
+}
+.button{
+    background-color: #58ec5d;
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
