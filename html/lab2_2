@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p class="h1">KEY FEATURES</p>
+    <p class="italic"><i> Sample text. Click to select the  text box. Click again or double click<br>
+    to start editing the text</i></p>
+    <div class="container">
+       
+        <div class="row">
+            <div class="box"><p class="main_txt">MARKETING</p>
+                <img src="./1.png.png" height="90px">
+            </div>
+            <div class="box"><p class="main_txt">CONSULTANCY</p>
+                <img src="./4.png.png" height="90px"></div>
+        </div>
+       
+        <div class="row">
+            <div class="box"><p class="main_txt">EFFECTIVE</p>
+                <img src="./2.png.png" height="90px"></div>
+            <div class="box"><p class="main_txt">STRATEGY</p>
+                <img src="./5.png.png" height="90px"></div>
+        </div>
+
+        <div class="row">
+            <div class="box"><p class="main_txt">AGILE</p>
+                <img src="./3.png.png" height="90px"></div>
+            <div class="box"><p class="main_txt">SUPPORT</p>
+                <img src="./6.png.png" height="90px"></div>
+        </div>
+    </div>
+    <div box_2></div>
+    <div class="box_2"> <p class="syperlast_txt">Sample text. Click to select the text box. Click again or double<br> click to start editing the text</p></div>
+   
+</body>
+</html>
